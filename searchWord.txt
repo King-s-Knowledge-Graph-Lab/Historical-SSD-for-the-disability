@@ -1,0 +1,31 @@
+Dexterity
+Limbs
+Mobility
+Coordination
+Paraplegia
+Quadriplegia
+Paralysis
+Speech disorder
+Language disorder
+Blindness
+Color blindness
+Low vision
+Partial sight
+Night vision
+Strabismus
+Astigmatism
+Myopia
+Farsightedness
+Deafness
+Hearing loss
+Hypoacusia
+Tactile sensation
+Dysgraphia
+Dyslexia
+Asperger
+Emotional disorders
+Autism spectrum disorder
+Dementia
+Schizophrenia
+PTSD
+Depression

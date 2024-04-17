@@ -1,0 +1,16 @@
+Dexterity
+Paraplegia
+Quadriplegia
+Speech disorder
+Language disorder
+Blindness
+Astigmatism
+Deafness
+Hearing loss
+Dyslexia
+Asperger
+Emotional disorders
+Autism spectrum disorder
+Dementia
+Schizophrenia
+Depression
